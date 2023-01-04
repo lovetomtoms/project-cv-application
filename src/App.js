@@ -1,11 +1,11 @@
 import InfoMainCon from "./components/InfoMainCon";
-import EduMainCon from "./components/EduMainCon";
+import EducationalExperience from "./components/EduEx";
 
 function App() {
   return (
     <div>
       <InfoMainCon />
-      <EduMainCon />
+      <EducationalExperience />
     </div>
   );
 }
